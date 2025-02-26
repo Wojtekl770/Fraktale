@@ -1,2 +1,2 @@
 # Fraktale
-Program symulujący fraktalne krajobrazy
+Programy symulujące zjawiska fraktalne
